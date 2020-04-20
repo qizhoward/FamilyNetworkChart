@@ -8,15 +8,15 @@
               switch游戏机网络
           －－－－－－－－－－外网
           
-　　　　　         －－－－－－－－－－
-　　　　　         －－－－－－－－－－外网
-                            ｜｜
-                            ｜｜我家的网络图
-                            ｜｜
-                  　          ｜WiFi network
-                  　          ｜－－－－－
-                            　｜　 ｜my computer pc network　华硕台式机电脑网络　Xbox网络
-                  　          ｜   ｜Realtek PCIe GbE Family Controller
+　　　　　         －－－－－－－－－－</br>
+　　　　　         －－－－－－－－－－外网</br>
+                            ｜｜</br>
+                            ｜｜我家的网络图</br>
+                            ｜｜</br>
+                  　          ｜WiFi network</br>
+                  　          ｜－－－－－</br>
+                            　｜　 ｜my computer pc network　华硕台式机电脑网络　Xbox网络</br>
+                  　          ｜   ｜Realtek PCIe GbE Family Controller</br>
                               ｜　 ｜以太网
                               ｜　 ｜
                               ｜　 ｜VPN - VPN Client
